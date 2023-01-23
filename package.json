@@ -1,0 +1,24 @@
+{
+  "name": "w1ch5",
+  "version": "1.0.0",
+  "description": "Ejercicios Semana 2 . Bootcamp Madrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass sass:css --watch",
+    "prepare": "husky install"
+  },
+  "keywords": [
+    "Challenge",
+    "WeekEnd",
+    "Travellian"
+  ],
+  "author": "Ryan",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}

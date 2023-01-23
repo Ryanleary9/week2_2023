@@ -14,3 +14,5 @@ Ejercicios semana 2. Bootcamp MAdrid
 - Instalar archivo ESLint: `npx eslint --init`
 - Añadir `npm i -D eslint-config-prettier`
 - Incluir en eslint.json "prettier" como ultima extension.
+- Añadir carpeta con husky
+- Instalar husky: `npx husky install`

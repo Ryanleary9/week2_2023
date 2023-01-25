@@ -1,3 +1,6 @@
-import { add } from './tools.js';
-
-console.log(add(3, 5));
+import { factorial } from './factorial.js';
+try {
+  console.log(factorial(198));
+} catch (error) {
+  console.log(error.message);
+}

@@ -1,3 +1,1 @@
-const x = 22;
-const a = 41;
-console.log(x);
+export const add = (a, b) => a + b;
